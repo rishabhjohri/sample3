@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+#one,#two {
+  /* background-size: cover; */
+  background-position: center;
+  min-height: 75vh;  
+}
+#one{
+    background-image: url('./img/Layer2.png');
+}
+#two{
+    background-image: url('./img/beautiful-16736_1280.png');
+}
+#linesec1{
+    width: 20%;
+    border: 2px white;
+}
+#subheading{
+    font-family: 'Pacifico', cursive;
+    color: white;
+}
+
+/* <!-- <section class="third">
+    <div class="container">
+        <div class="row head3">
+            <div class="offset-md-6 col-md-6">
+             <h6>6 JULY 2014 <span class="vl"></span> BUCHAREST</h6>
+             <h1 style="color: red;">EUROPEAN WONDERINGS</h1>
+             <h1>CLIPS</h1>
+             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+             <hr style="border: 2px solid white; width: 100%">
+                 <h3 style="font-weight: 350; font-style: italic;">"I had the time of my life on the road and I believe it changed the way I work, the way I love... the way I look at things"</h3>
+                 <hr style="border: 2px solid white; width: 100%">
+                 <button class="button">Browse Shoot</button>
+            </div>
+        </div>
+    </div>
+</section>
+<section class="fourth">
+    <div class="container">
+        <div class="row head4">
+            <div class="offset-md-3 col-md-6 ">
+                <h1 class="text-center">Get in touch with me</h1>
+                <hr style="border: 2px solid white; width: 20%">
+                <p style="font-weight: 350; font-style: italic; padding-top: 4vh; padding-bottom: 2vh;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+            </div>
+            <div class="offset-md-2 col-md-8">
+             <input type="text" id="name"  placeholder="Enter your name">
+             <input type="text" id="email" placeholder="Enter your email">
+            </div>
+            <div class="offset-md-2 col-md-8">
+             <input type="text" id="about" name="firstname" placeholder="What's this about">
+            </div>
+            <div class="col-md-12 text-center"><button class="button">Send Message</button></div>
+        </div>
+    </div>
+</section>
+<section class="fifth">
+    <div class="col-md-12 text-center">
+        <p style="font-size: 0.75em;font-weight: 250;">All rights reserved.</p>
+    </div>
+</section> --> */
